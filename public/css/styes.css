@@ -7,6 +7,10 @@
     color: #4c79d3;
 }
 
+.color-zero{
+    color: black;
+}
+
 .icon-detail{
     font-size: 50px;
     margin-right: 10px;
@@ -40,8 +44,9 @@
 }
 
 .menu{
+    
     margin-right: 20px;
-    }
+}
 
 /*index*/
 
@@ -98,6 +103,7 @@ header{
     align-items: center;
 }
 .button-default{
+    text-decoration: none;
     border-radius: 10px;
     background-color: #4e0070;
     color: #FFFFFF;
